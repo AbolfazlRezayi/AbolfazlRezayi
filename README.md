@@ -36,6 +36,37 @@
 
 ---
 
+## 📂 Portfolio & Resume
+
+Here are some of my successful private projects 🚀
+
+### 🔹 Telegram Multi-Account Panel
+A **full-featured Telegram management system** that allows handling multiple accounts simultaneously.  
+- Mass member adding from one group to another  
+- Advanced account control & automation tools  
+- Scalable and designed for heavy use cases  
+
+---
+
+### 🔹 VPN Store Panel
+An **automated VPN shop platform** with full integration and multi-server support.  
+- Automatic VPN account creation & management  
+- Support for multiple protocols & servers  
+- Admin dashboard for monitoring and controlling sales  
+- Designed for scalability and reliability  
+
+---
+
+### 🔹 Telegram Store Bot
+A **powerful Telegram bot for digital goods & services**, inspired by SmartPanel.  
+- Sell virtual products & services automatically  
+- Full-featured order management system  
+- Customer-friendly interface with instant delivery  
+- Flexible design to adapt to different business needs  
+
+---
+
+
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AbolfazlRezayi&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlRezayi&layout=compact&theme=radical)  
